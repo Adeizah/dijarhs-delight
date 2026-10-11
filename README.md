@@ -31,3 +31,6 @@ No build tools or paid hosting are required.
 
 ## Meat pie image fix
 The Meat pies menu card now uses the locally bundled `assets/meat-pie.png` image, rather than a remote pizza image URL. Upload the `assets` folder along with the HTML/CSS/JS files so the image appears on GitHub Pages.
+
+
+Food image credits: Awara photo by YusufuAM, Wikimedia Commons, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Awara_(Soybeans_Cake).jpg). Corn dog photo by Aerous, Wikimedia Commons, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Korean_corn_dog_on_stick.jpg). The meat-pie photo is bundled locally in `assets/meat-pie.png`.
