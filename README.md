@@ -27,3 +27,7 @@ Open `index.html` in a browser. Internet access is needed for the Google Fonts a
 - Confirm that the owner is happy with the visual design and the use of stock photography.
 
 No build tools or paid hosting are required.
+
+
+## Meat pie image fix
+The Meat pies menu card now uses the locally bundled `assets/meat-pie.png` image, rather than a remote pizza image URL. Upload the `assets` folder along with the HTML/CSS/JS files so the image appears on GitHub Pages.
