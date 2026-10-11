@@ -1,4 +1,6 @@
 document.querySelectorAll('[data-year]').forEach(el => el.textContent = new Date().getFullYear());
+const current = document.body.dataset.current;
+document.querySelectorAll('.nav a[data-page]').forEach(a => { if (a.dataset.page === current) a.classList.add('active'); });
 const toggle = document.querySelector('.menu-toggle');
 const nav = document.querySelector('.nav');
 if (toggle && nav) {
