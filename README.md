@@ -20,9 +20,9 @@ Open `index.html` in a browser. Internet access is needed for the Google Fonts a
 5. Wait for the published URL to appear on the Pages screen.
 
 ## Before launch
-- The food images are watermark-free stock image URLs used as visual placeholders; they are not represented as actual Dijarhs Delights products. Review and replace any image that doesn't match a product sold.
-- Replace the general WhatsApp link with the owner's actual business number, using the format `https://wa.me/23480XXXXXXXX`.
-- Confirm product names, prices, delivery information and availability with the owner.
+- The food images are watermark-free stock image URLs used as visual placeholders; they are not represented as actual Dijarhs Delights products. The meat-pie image URL has been changed away from the former pizza image, but please visually verify it in the live preview before launch.
+- WhatsApp is set to `+234 703 727 2326`. Home and contact calls-to-action open WhatsApp with a pre-filled message; menu product enquiry buttons include the relevant product name.
+- Product prices are still shown as enquiry prompts because the owner's price-list screenshots have not been provided yet. Add verified prices when they arrive. Confirm delivery information and availability with the owner.
 - Replace the draft story note with the real business story and remove the note.
 - Confirm that the owner is happy with the visual design and the use of stock photography.
 
