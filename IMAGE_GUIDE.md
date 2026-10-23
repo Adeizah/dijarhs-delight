@@ -46,7 +46,3 @@ All website photos are kept together in the single `pictures/` folder. Each file
 - `menu.html`: menu product cards.
 - `story.html`: Our Story photo.
 - `styles.css`: homepage hero background image.
-
-
-## Brand logo
-- `pictures/dijarhs-logo.png` — transparent-background logo extracted from the Instagram profile screenshot. Replace this file to update the logo site-wide; the header references it on all three pages.
