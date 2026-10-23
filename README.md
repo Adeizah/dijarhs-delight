@@ -11,3 +11,7 @@ A three-page static website for Dijarhs Delights. Includes Home, Menu, and Our S
 
 ## Product pictures
 All website photos are stored together in the `pictures/` folder with clear filenames. See `IMAGE_GUIDE.md` for the list and replacement instructions.
+
+
+## Image attribution
+The plain cupcakes menu image uses “Unfrosted Cupcakes” by Noah Wulf, licensed CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Unfrosted_Cupcakes.jpg . The image is loaded from Wikimedia Commons.

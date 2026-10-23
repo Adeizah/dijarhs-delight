@@ -1,19 +1,17 @@
-# Price and link audit
+PRICE AUDIT — UPDATED FROM THE USER-SUPPLIED PRICE-LIST IMAGES
 
-## Source-backed prices added
+Added verified prices:
+- Plain cupcakes: box of 6 ₦2,500; box of 12 ₦5,000
+- Frosted cupcakes: box of 6 ₦7,000; box of 12 ₦14,000
+- Tube cake, cake slice, cake parfait, foil cake: ₦2,000 each/unit as labelled
+- Bento cake: ₦4,000
+- Full cakes (all two layers): 6 in ₦18,000; 8 in ₦25,000; 10 in ₦30,000
+- Corndogs: pack of 10 ₦3,000; pack of 20 ₦7,000
+- Puff puff: plain per pack ₦2,000; glazed per pack ₦3,000
+- Awara: with yaji ₦2,000; with peppered sauce ₦2,500; golden with yaji ₦3,000; golden with peppered sauce ₦3,500
+- Meat pie ₦1,000 each; samosa ₦400 each; spring rolls ₦300 each
+- Plain brownies ₦3,000 per pack; glazed brownies ₦4,000 per pack
+- Fruity zobo, ginger-lemon, tamarind, lemonade, tigernut: ₦800 each
 
-- Birthday cakes: 6-inch 1/2/3 layers ₦20,000/₦35,000/₦50,000; 8-inch ₦25,000/₦40,000/₦60,000; 10-inch ₦30,000/₦50,000/₦70,000.
-- Plain doughnuts: box of 6/12/24 = ₦6,000/₦12,000/₦24,000.
-- Glazed and filled doughnuts (separate cards): box of 6/12/24 = ₦8,000/₦14,000/₦30,000 each.
-- Milky doughnuts: box of 6/12/24 = ₦10,000/₦20,000/₦30,000.
-- Plain cinnamon rolls: box of 6/12/25 = ₦6,000/₦12,000/₦25,000.
-- Glazed cinnamon rolls: box of 6/12/25 = ₦7,500/₦14,500/₦30,000.
-- Mini pancakes: pack of 15/25/35 = ₦5,000/₦9,000/₦12,000.
-- Big pancakes: 5 stacks = ₦12,000.
-- Waffles: pack of 5/10/15 = ₦5,000/₦10,000/₦15,000.
-
-All products without a verified price display “Price on request” and link to WhatsApp. Every listed price is itself a WhatsApp button with a product/quantity/price-specific message.
-
-## Notes
-- Birthday-cake notes from the provided PDF: whipped cream +₦5,500; character cakes +₦3,000; extra designs/delivery charged based on design/location.
-- Pancakes and waffles images are crops from the supplied price-list image.
+Birthday cakes remain priced by size and layer count from the separate birthday-cake PDF. Full cakes are a separate card using the user's price-list image's fixed two-layer prices.
+Every displayed price option links to WhatsApp with product, quantity/variant and price in the prefilled message.
